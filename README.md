@@ -3,32 +3,35 @@ I've developed this app while arguing with destiny. Lightnings strike just near 
 
 <div align="center">
 
-  <!-- Первое горизонтальное изображение -->
-  <img src="chart.png" alt="PNL Chart" width="800"/>
-  <br>
-  <i><font color="#808080">Real-time market tracking and dynamic grid execution logic.</font></i>
 
-  <br><br><br>
-
-  <!-- Второе горизонтальное изображение -->
-  <img src="trade_history.png" alt="Trade History" width="800"/>
-  <br>
-  <i><font color="#808080">Automated trade execution history on Binance Futures.</font></i>
-
-  <br><br><br>
 
   <!-- Два вертикальных изображения рядом -->
   <table>
     <tr>
       <td align="center">
-        <img src="vertical_1.png" alt="Terminal Output 1" width="380"/>
+        <img src="intro.jpg" alt="Terminal Output 1" width="380"/>
         <br>
-        <i><font color="#808080">System initialization and WebSocket connection handling.</font></i>
+        <i><font color="#808080">Introductory page.</font></i>
       </td>
       <td align="center">
-        <img src="vertical_2.png" alt="Terminal Output 2" width="380"/>
+        <img src="menu.jpg" alt="Terminal Output 2" width="380"/>
         <br>
-        <i><font color="#808080">High-frequency position recalculation upon partial fills.</font></i>
+        <i><font color="#808080">Menu of all functionality.</font></i>
+      </td>
+    </tr>
+  </table>
+    <!-- Два вертикальных изображения рядом -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="priority.gif" alt="Terminal Output 1" width="380"/>
+        <br>
+        <i><font color="#808080">Priority randomizer page.</font></i>
+      </td>
+      <td align="center">
+        <img src="coinflip.gif" alt="Terminal Output 2" width="380"/>
+        <br>
+        <i><font color="#808080">Coinflip page (the initial idea).</font></i>
       </td>
     </tr>
   </table>
